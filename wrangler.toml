@@ -1,0 +1,6 @@
+name = "linktree-clone"
+type = "javascript"
+account_id = "346eaeddec6243e471f313a9e7c46033"
+workers_dev = true
+route = ""
+zone_id = "89e47335e5597760021cd2188644f499"
